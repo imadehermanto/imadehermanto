@@ -1,10 +1,10 @@
 # 💫 About Me:
-👋 Hi there! I'm a web developer and machine learning enthusiast from Bali. Graduated cum laude from ITB Stikom Bali 🎓, I'm passionate about creating effective websites and diving into exciting ML projects.<br><br>🌐 Web Dev: Laravel, Bootstrap, HTML, CSS, JavaScript<br>🤖 ML Projects: Naive Bayes, VGG16, Random Forest<br>📊 Data Handling: pandas, NumPy, SQL<br><br>🚀 Recent Projects:<br><br>Balinese Mask Classification 🕵️‍♂️🎭<br>Heart Failure Prediction ❤️‍🩹<br>Weather Classification 🌦️<br>🏆 Achievements: Best Thesis Award, Cum Laude Graduate<br><br>Let's connect and build something amazing! 🚀✨
+👋 Hi there! I'm a web developer and machine learning enthusiast from Bali. Graduated cum laude from ITB Stikom Bali 🎓, I'm passionate about creating effective websites and diving into exciting ML projects.<br><br>🌐 Web Dev: Laravel, Bootstrap, HTML, CSS, JavaScript<br>🤖 ML Projects: Naive Bayes, VGG16, Random Forest<br>📊 Data Handling: pandas, NumPy, SQL<br><br>🚀 Recent Projects:<br>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=imadehermanto&repo=balinese-mask-classification)]([https://github.com/imadehermanto/balinese-mask-classification](https://github.com/imadehermanto/balinese-mask-classification))
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=imadehermanto&repo=weather-type-classification )]([https://github.com/imadehermanto/balinese-mask-classification](https://github.com/imadehermanto/weather-type-classification))
 
-
+🏆 Achievements: Best Thesis Award, Cum Laude Graduate<br><br>Let's connect and build something amazing! 🚀✨
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/dto.gent) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hermanto_imade) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/imadehermanto) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@imadehermanto) 
