@@ -1,10 +1,8 @@
 # 💫 About Me:
 👋 Hi there! I'm a web developer and machine learning enthusiast from Bali. Graduated cum laude from ITB Stikom Bali 🎓, I'm passionate about creating effective websites and diving into exciting ML projects.<br><br>🌐 Web Dev: Laravel, Bootstrap, HTML, CSS, JavaScript<br>🤖 ML Projects: Naive Bayes, VGG16, Random Forest<br>📊 Data Handling: pandas, NumPy, SQL<br><br>🚀 Recent Projects:<br><br>Balinese Mask Classification 🕵️‍♂️🎭<br>Heart Failure Prediction ❤️‍🩹<br>Weather Classification 🌦️<br>🏆 Achievements: Best Thesis Award, Cum Laude Graduate<br><br>Let's connect and build something amazing! 🚀✨
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=imadehermanto&repo=balinese-mask-classification)]([https://github.com/madushadhanushka/differ](https://github.com/imadehermanto/balinese-mask-classification))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=imadehermanto&repo=balinese-mask-classification)]([https://github.com/madushadhanushka/differ](https://github.com/imadehermanto/balinese-mask-classification))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=imadehermanto&repo=balinese-mask-classification)]([https://github.com/madushadhanushka/differ](https://github.com/imadehermanto/balinese-mask-classification))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=imadehermanto&repo=balinese-mask-classification)]([https://github.com/madushadhanushka/differ](https://github.com/imadehermanto/balinese-mask-classification))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=imadehermanto&repo=balinese-mask-classification)]([https://github.com/imadehermanto/balinese-mask-classification](https://github.com/imadehermanto/balinese-mask-classification))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=imadehermanto&repo=weather-type-classification )]([https://github.com/imadehermanto/balinese-mask-classification](https://github.com/imadehermanto/weather-type-classification))
 
 
 
