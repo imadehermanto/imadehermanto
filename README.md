@@ -1,5 +1,8 @@
 # 💫 About Me:
 👋 Hi there! I'm a web developer and machine learning enthusiast from Bali. Graduated cum laude from ITB Stikom Bali 🎓, I'm passionate about creating effective websites and diving into exciting ML projects.<br><br>🌐 Web Dev: Laravel, Bootstrap, HTML, CSS, JavaScript<br>🤖 ML Projects: Naive Bayes, VGG16, Random Forest<br>📊 Data Handling: pandas, NumPy, SQL<br><br>🚀 Recent Projects:<br><br>Balinese Mask Classification 🕵️‍♂️🎭<br>Heart Failure Prediction ❤️‍🩹<br>Weather Classification 🌦️<br>🏆 Achievements: Best Thesis Award, Cum Laude Graduate<br><br>Let's connect and build something amazing! 🚀✨
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
+
 
 
 ## 🌐 Socials:
