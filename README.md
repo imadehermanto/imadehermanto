@@ -1,7 +1,8 @@
 <div align="center">
-
+  # 👨‍💻 I Made Hermanto
+  
   <a href="https://imadehermanto.my.id">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1,11,20,30&height=200&section=header&text=I%20Made%20Hermanto&fontSize=46&fontAlignY=42&desc=Technical%20Lead%20%7C%20Full-Stack%20Architect%20%7C%20AI%20%26%20CV%20Researcher&descAlignY=64&descAlign=50&fontColor=ffffff" width="100%" alt="Header Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Technical+Lead+at+Mataverse+Indonesia;Building+digital+solutions+with+precision.;Full-Stack+Architect+%7C+AI+%26+CV+Researcher;Simple+things+only+need+simple+solutions." alt="Typing SVG" />
   </a>
 
   <!-- Typing SVG Effect -->
