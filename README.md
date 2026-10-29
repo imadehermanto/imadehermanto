@@ -1,13 +1,10 @@
 <div align="center">
-  # 👨‍💻 I Made Hermanto
-  
+
+  <h1>👨‍💻 I Made Hermanto</h1>
+
+  <!-- Dynamic Typing SVG -->
   <a href="https://imadehermanto.my.id">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Technical+Lead+at+Mataverse+Indonesia;Building+digital+solutions+with+precision.;Full-Stack+Architect+%7C+AI+%26+CV+Researcher;Simple+things+only+need+simple+solutions." alt="Typing SVG" />
-  </a>
-
-  <!-- Typing SVG Effect -->
-  <a href="https://imadehermanto.my.id">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+digital+solutions+with+precision.;Technical+Lead+at+Mataverse+Indonesia;Full-Stack+Web+Developer+%26+Systems+Architect;Machine+Learning+%26+Computer+Vision+Enthusiast;Simple+things+only+need+simple+solutions." alt="Typing SVG" />
   </a>
 
   <p align="center">
