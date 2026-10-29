@@ -4,7 +4,7 @@
 
   <!-- Dynamic Typing SVG -->
   <a href="https://imadehermanto.my.id">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Technical+Lead+at+Mataverse+Indonesia;Building+digital+solutions+with+precision.;Full-Stack+Architect+%7C+AI+%26+CV+Researcher;Simple+things+only+need+simple+solutions." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Building+digital+solutions+with+precision.;Full-Stack+Architect+%7C+AI+%26+CV+Researcher;Simple+things+only+need+simple+solutions." alt="Typing SVG" />
   </a>
 
   <p align="center">
